@@ -1,0 +1,25 @@
+// function canPlay() {
+//   let sport = " Football";
+
+//   if (true) {
+//     let personName = "Cosimo";
+//   }
+
+//   console.log(personName + sport);
+// }
+
+// canPlay();
+
+
+function canPlay() {
+  let sport = "Football";
+  let personName; 
+
+  if (true) {
+      personName = "Cosimo";
+  }
+
+  console.log(personName + ' ' + sport);
+}
+
+canPlay();
